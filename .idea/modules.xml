@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/test-esp32-s3-uart.iml" filepath="$PROJECT_DIR$/.idea/test-esp32-s3-uart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_esp32_s3_uart/.idea/test-esp32-s3-uart.iml" filepath="$PROJECT_DIR$/../test_esp32_s3_uart/.idea/test-esp32-s3-uart.iml" />
     </modules>
   </component>
 </project>
